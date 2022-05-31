@@ -1,0 +1,17 @@
+.card__button {
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: 500;
+  background: #ff5f95;
+  color: #fff;
+}
+
+.card__button:nth-child(2) {
+  border: 1px solid #999;
+  color: #999;
+  background: #fff;
+}

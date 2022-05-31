@@ -1,6 +1,12 @@
 .card__profile {
+  box-sizing: border-box;
   padding: 40px;
   text-align: center;
   width: 100%;
   transition: .3s;
+  transform: translateY(150px);
+}
+
+.card:hover .card__profile {
+  transform: translateY(0px);
 }
