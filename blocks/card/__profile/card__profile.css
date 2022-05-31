@@ -1,0 +1,6 @@
+.card__profile {
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  transition: .3s;
+}

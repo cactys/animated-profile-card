@@ -1,0 +1,14 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/font.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__avatar-container/card__avatar-container.css);
+@import url(../blocks/card/__avatar/card__avatar.css);
+@import url(../blocks/card/__container/card__container.css);
+@import url(../blocks/card/__profile/card__profile.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
